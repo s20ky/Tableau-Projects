@@ -1,1 +1,83 @@
+🦠 Covid-19 in India – Tableau Dashboard
 
+📌 Project Overview
+
+This project analyzes the impact of Covid-19 in India by visualizing key trends such as confirmed cases, recoveries, and deaths across states and time periods. Using Tableau, I created an interactive dashboard that provides a clear picture of how the pandemic evolved and affected different regions in India.
+
+The dashboard helps policymakers, researchers, and the public understand the spread, recovery patterns, and hotspots, supporting better decision-making and resource allocation.
+
+🎯 Objectives
+
+Track Covid-19 confirmed, recovered, and death cases over time
+
+Compare state-wise case counts to identify highly impacted regions
+
+Visualize trends in active cases and recovery rates
+
+Provide an interactive view of pandemic progression for users
+
+📂 Dataset
+
+The dataset includes Covid-19 statistics in India with:
+
+State and regional Covid-19 cases
+
+Daily confirmed, recovered, and death counts
+
+Aggregated totals and trends over time
+
+📊 Key Dashboards & Insights
+📑 State-Wise Covid-19 Analysis
+
+Displays confirmed, recovered, and death cases across Indian states
+
+Highlights the states with the highest impact
+
+📈 Time-Series Trends
+
+Shows the progression of Covid-19 cases across different months
+
+Identifies peaks and declines in infection rates
+
+🏥 Recovery vs Death Rate
+
+Compares recovery rates with death rates across states
+
+Offers insights into healthcare performance and pandemic management
+
+📉 Active Cases Analysis
+
+Monitors active cases over time
+
+Helps understand the pressure on healthcare systems
+
+🔗 Project Link
+
+You can view the interactive dashboard live on Tableau Public:
+Covid-19 in India Dashboard Analysis
+
+🛠 Tools & Technologies
+
+Tableau Desktop / Tableau Public – Dashboard design & interactive visualizations
+
+Excel / CSV – Data preprocessing and cleaning
+
+🚀 How to Use
+
+Click the Tableau Public link above to access the dashboard
+
+Explore with filters, tooltips, and drill-down options
+
+Navigate between dashboard views to uncover trends and insights
+
+📌 Outcomes & Learnings
+
+Identified states with the highest Covid-19 cases and fatalities
+
+Visualized the trend of active, recovered, and death cases over time
+
+Highlighted variations in recovery and death rates across regions
+
+Gained insights into the pandemic’s impact in India for better awareness and decision-making
+
+📷 Screenshots
