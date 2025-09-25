@@ -1,0 +1,93 @@
+👥 HR Dashboard
+
+📌 Project Overview
+
+This project presents a comprehensive HR analytics dashboard built in Tableau. The dashboard captures key human resources metrics to help organizations gain insights into workforce structure, performance, attrition, recruitment, and demographic trends.
+
+It’s designed to support data-driven decision-making in HR management, workforce planning, and employee engagement strategies.
+
+🎯 Objectives
+
+Visualize demographic breakdowns (age, gender, job role, department)
+
+Track employee joins, exits, and attrition trends
+
+Analyze performance ratings, promotion history, tenure distributions
+
+Compare recruitment success, open positions, and hiring pipeline
+
+Monitor diversity metrics, education levels, and skill distributions
+
+📂 Dataset
+
+The dataset comprises anonymized HR records with:
+
+Employee demographics (age, gender, education, department, job role)
+
+Employment history (hire date, exit date, tenure)
+
+Performance and promotion data
+
+Recruitment and hiring pipeline metrics
+
+📊 Key Dashboards & Insights
+👤 Employee Demographics & Diversity
+
+Shows splits by gender, education, department, and job roles
+
+Highlights diversity gaps or concentration
+
+📈 Hiring & Attrition Trends
+
+Visualizes new joiners vs exits over time
+
+Tracks attrition rates by department, tenure, or role
+
+⭐ Performance & Promotion
+
+Displays performance rating distributions
+
+Highlights promotion patterns across levels and departments
+
+🕒 Tenure & Retention
+
+Shows tenure distribution (e.g. <1 year, 1-3 years, 3-5 years, >5 years)
+
+Helps identify retention risk segments
+
+📋 Recruitment Pipeline
+
+Monitors open positions, candidates in pipeline, successful hires
+
+Compares hiring efficiency across departments
+
+🔗 Project Link
+
+You can view the interactive dashboard live on Tableau Public:
+HR Dashboard – HRSummary
+
+🛠 Tools & Technologies
+
+Tableau Desktop / Tableau Public – Dashboard creation & visualization
+
+Excel / CSV – Preprocessing and cleaning
+
+🚀 How to Use
+
+Click the Tableau Public link above to open the dashboard
+
+Use filters, drill-down options, and tooltips to explore specific metrics
+
+Navigate across tabs to examine different HR dimensions
+
+📌 Outcomes & Learnings
+
+Gained insights into workforce diversity, attrition hotspots, and performance trends
+
+Identified departments or roles with high exit rates or stagnation
+
+Visualized promotion and hiring trends to support workforce planning
+
+Built a holistic HR analytics tool for decision-makers
+
+📷 Screenshots
