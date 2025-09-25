@@ -1,4 +1,5 @@
 📊 Loan Default Prediction & Financial Insights – Tableau Dashboard
+
 📌 Project Overview
 
 This project focuses on analyzing customer financial data to identify patterns in loan disbursement, repayment behavior, and default risks. Using Tableau, I built interactive dashboards to visualize key metrics such as loan defaults by age, disbursed amounts per branch, delinquent accounts, and customer document verification trends.
@@ -77,8 +78,6 @@ View Dashboard on Tableau Public
 Tableau Desktop / Tableau Public – Dashboard design & interactive visualizations
 
 Excel / CSV – Data cleaning & preprocessing
-
-SQL (optional) – Querying & preparing datasets
 
 🚀 How to Use
 
