@@ -1,0 +1,101 @@
+📊 Loan Default Prediction & Financial Insights – Tableau Dashboard
+📌 Project Overview
+
+This project focuses on analyzing customer financial data to identify patterns in loan disbursement, repayment behavior, and default risks. Using Tableau, I built interactive dashboards to visualize key metrics such as loan defaults by age, disbursed amounts per branch, delinquent accounts, and customer document verification trends.
+
+The dashboards provide data-driven insights that can help financial institutions improve credit risk assessment, loan portfolio management, and branch-level performance monitoring.
+
+🎯 Objectives
+
+Analyze customer loan default behavior across employment types and age groups
+
+Visualize document verification flags (Aadhar, PAN, Passport, VoterID, Driving License, etc.) for KYC compliance
+
+Track sanctioned vs. disbursed loan amounts by branch and customer segment
+
+Compare new vs. delinquent accounts and inquiries across branches
+
+Assess Loan-to-Value (LTV) ratios and asset costs for risk profiling
+
+📂 Dataset
+
+The dataset includes anonymized customer and financial data with:
+
+Customer Demographics: Age, Employment Type (Salaried, Self-employed, Others)
+
+Loan Details: Sanctioned Amount, Disbursed Amount, Active & Overdue Accounts
+
+Branch-Level Insights: Loan disbursement, inquiries, and defaults by branch
+
+KYC Documents: Flags for Aadhar, PAN, Passport, VoterID, Driving License
+
+📊 Key Dashboards & Insights
+
+📑 Document Verification Dashboard
+
+Displays distribution of KYC documents submitted by customers
+
+Highlights gaps in identity-document compliance
+
+👥 Employment Type vs Default Rates
+
+Shows default percentages among Salaried, Self-Employed, and Other customer groups
+
+Offers insight on riskier customer segments
+
+🏦 Branch-Level Loan Disbursement
+
+Compares disbursed amounts across branches
+
+Identifies high- and low-performing branches
+
+📉 Delinquent Accounts vs New Accounts
+
+Compares delinquent account counts with new customer acquisitions per branch
+
+Helps in monitoring portfolio quality over time
+
+💰 LTV & Asset Cost Analysis
+
+Displays LTV ratio distribution across branches
+
+Highlights branches with higher risk exposure
+
+📈 Age-wise Default Analysis
+
+Shows which age groups (e.g. 38–50) have higher default rates
+
+Helps shape targeted credit strategies
+
+🔗 Project Link
+
+You can view the interactive dashboards live on Tableau Public:
+View Dashboard on Tableau Public
+
+🛠 Tools & Technologies
+
+Tableau Desktop / Tableau Public – Dashboard design & interactive visualizations
+
+Excel / CSV – Data cleaning & preprocessing
+
+SQL (optional) – Querying & preparing datasets
+
+🚀 How to Use
+
+Click the link above or open the .twbx file in your local environment
+
+Explore with filters, tooltips, and drill-downs
+
+Dive into each dashboard tab to understand trends and insights
+
+📌 Outcomes & Learnings
+
+Identified high-risk customer segments by age & employment type
+
+Highlighted branches with elevated default rates
+
+Revealed gaps in KYC/document verification compliance
+
+Created a cohesive risk-monitoring dashboard for decision-makers
+
+📷 Screenshots
