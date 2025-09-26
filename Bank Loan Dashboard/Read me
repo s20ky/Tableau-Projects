@@ -1,0 +1,102 @@
+📊 Bank Loan Default Analysis & Financial Insights – Tableau Dashboard
+
+📌 Project Overview
+
+This project focuses on analyzing bank loan data to uncover patterns in loan approvals, disbursements, repayment behavior, and defaults. Using Tableau, I built interactive dashboards to visualize key metrics such as loan approval trends, default rates, customer profiles, and branch-level loan performance.
+
+The dashboards provide data-driven insights to help financial institutions strengthen credit risk assessment, portfolio management, and compliance monitoring.
+
+🎯 Objectives
+
+Analyze loan application trends and approval vs. rejection status.
+
+Track default rates across borrower demographics and loan types.
+
+Visualize loan disbursement amounts across branches and customer groups.
+
+Compare active vs. delinquent accounts for portfolio quality monitoring.
+
+Assess risk indicators such as Loan-to-Value (LTV) ratios and overdue accounts.
+
+Provide branch-level insights for performance benchmarking.
+
+📂 Dataset
+
+The dataset includes anonymized loan application and repayment records with:
+
+Customer Demographics: Age, Employment Type, Income Group
+
+Loan Details: Application Status (Approved/Rejected), Loan Amount, Disbursement, Overdue Accounts
+
+Branch-Level Insights: Loan disbursement, inquiries, defaults, portfolio quality
+
+Risk Indicators: Loan-to-Value ratios, repayment trends, default percentages
+
+📊 Key Dashboards & Insights
+
+📑 Loan Status Dashboard
+
+Displays Approved vs. Rejected loans
+
+Provides default percentage trends by loan type
+
+👥 Demographics vs Default Rates
+
+Shows default rates across age groups, employment types, and income categories
+
+Highlights high-risk borrower segments
+
+🏦 Branch-Level Loan Disbursement
+
+Compares loan disbursed vs. sanctioned amounts across branches
+
+Identifies high-performing and underperforming branches
+
+📉 Active vs Delinquent Accounts
+
+Tracks active loan accounts vs delinquent/overdue accounts
+
+Helps monitor portfolio health over time
+
+💰 Loan-to-Value (LTV) & Repayment Trends
+
+Visualizes LTV ratio distribution across branches
+
+Identifies branches/customers with higher credit risk exposure
+
+📈 Loan Applications Over Time
+
+Shows monthly and quarterly loan application trends
+
+Helps assess seasonal demand and risk cycles
+
+🔗 Project Link
+
+You can view the interactive dashboards live on Tableau Public:
+👉 https://public.tableau.com/app/profile/sunil.kumar.sabhajit.yadav/viz/BankLoanDashboard_17588975809610/Final
+
+🛠 Tools & Technologies
+
+Tableau Desktop / Tableau Public → Dashboard creation & interactive visualizations
+
+Excel / CSV → Data cleaning & preprocessing
+
+🚀 How to Use
+
+Download the .twbx file from this repository.
+
+Open it using Tableau Desktop / Tableau Public.
+
+Use filters, drill-downs, and tooltips to explore insights.
+
+Navigate across dashboard tabs for a full analysis.
+
+📌 Outcomes & Learnings
+
+Identified high-risk customer segments based on demographics and employment.
+
+Highlighted branches with higher default and delinquency rates.
+
+Exposed gaps in loan disbursement vs sanctioned trends.
+
+Built a risk-monitoring framework to assist banking decision-makers.
